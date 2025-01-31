@@ -1,7 +1,7 @@
-function TemplatePointers(){
-    return(
+function TemplatePointers() {
+    return (
         <>
-         <h1 className="text-2xl mt-8 font-bold">Project Records Management System</h1>
+            <h1 className="text-2xl mt-8 font-bold">Project Records Management System V2.0</h1>
         </>
     )
 }
